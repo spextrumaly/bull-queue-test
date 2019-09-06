@@ -15,5 +15,3 @@ const options = {
   },
   attempts: 3
 };
-
-queues.TEST_QUEUE.add(data, options);
